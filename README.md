@@ -1,27 +1,27 @@
 # 💫 About Me:
 ## 🔭 Current Focus:
-<br>I am actively expanding my knowledge in **Exploratory Data Analysis (EDA)** and **Statistics**. I am also engaged in learning **Advanced Python** and **Machine Learning**.<br><br>
+I am actively expanding my knowledge in **Exploratory Data Analysis (EDA)** and **Statistics**. I am also engaged in learning **Advanced Python** and **Machine Learning**.<br>
 
 ## 👯 Collaboration Opportunities
-<br>I am seeking opportunities to collaborate on projects related to:
+I am seeking opportunities to collaborate on projects related to:
 - **Data Analysis**
 - **Python Development**
 - **Web Scraping**
-<br>If you have projects in these areas, or if you're looking to work together, please reach out.<br><br>
+
+If you have projects in these areas, or if you're looking to work together, please reach out.<br><br>
 
 ## 🤝 Research Interests
-<br>I am interested in exploring **Machine Learning** research papers and white papers. I am looking for guidance in understanding complex research topics and methodologies.<br><br>
+I am interested in exploring **Machine Learning** research papers and white papers. I am looking for guidance in understanding complex research topics and methodologies.<br>
 
 ## 💭 Additional Interests
-<br>Feel free to discuss with me topics related to:
+Feel free to discuss with me topics related to:
 - **Career Development**
 - **Volunteering**
 - **Community Building**
 - **Dance** (I am a trained dancer and passionate about the arts)<br><br>
 
 ## ⚡ Fun Fact
-<br>I am a trained dancer, which keeps me motivated and disciplined in both my personal and professional life.
-
+I am a trained dancer, which keeps me motivated and disciplined in both my personal and professional life. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-sravani-k) 
