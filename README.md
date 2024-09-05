@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭 Current Focus<br>I am actively expanding my knowledge in Exploratory Data Analysis (EDA) and Statistics. I am also engaged in learning Advanced Python and Machine Learning.<br><br>👯 Collaboration Opportunities<br>I am seeking opportunities to collaborate on projects related to:<br>Data Analysis<br>Python Development<br>Web Scraping<br>If you have projects in these areas, or if you're looking to work together, please reach out.<br><br>🤝 Research Interests<br>I am interested in exploring Machine Learning research papers and white papers. I am looking for guidance in understanding complex research topics and methodologies.<br><br>💭 Additional Interests<br>Feel free to discuss with me topics related to:<br>Career Development<br>Volunteering<br>Community Building<br>Dance (I am a trained dancer and passionate about the arts)<br><br>⚡ Fun Fact<br>I am a trained dancer, which keeps me motivated and disciplined in both my personal and professional life.
+## 🔭 Current Focus:
+<br>I am actively expanding my knowledge in **Exploratory Data Analysis (EDA)** and **Statistics**. I am also engaged in learning **Advanced Python** and **Machine Learning**.<br><br>
+
+## 👯 Collaboration Opportunities
+<br>I am seeking opportunities to collaborate on projects related to:
+- **Data Analysis**
+- **Python Development**
+- **Web Scraping**
+<br>If you have projects in these areas, or if you're looking to work together, please reach out.<br><br>
+
+## 🤝 Research Interests
+<br>I am interested in exploring **Machine Learning** research papers and white papers. I am looking for guidance in understanding complex research topics and methodologies.<br><br>
+
+## 💭 Additional Interests
+<br>Feel free to discuss with me topics related to:
+- **Career Development**
+- **Volunteering**
+- **Community Building**
+- **Dance** (I am a trained dancer and passionate about the arts)<br><br>
+
+## ⚡ Fun Fact
+<br>I am a trained dancer, which keeps me motivated and disciplined in both my personal and professional life.
 
 
 ## 🌐 Socials:
