@@ -1,39 +1,65 @@
-# 💫 About Me:
-## 🔭 Current Focus:
-I am actively expanding my knowledge in **Exploratory Data Analysis (EDA)** and **Statistics**. I am also engaged in learning **Advanced Python** and **Machine Learning**.<br>
+# Hi there, I’m K Jaya Sravani 👋  
 
-## 👯 Collaboration Opportunities
-I am seeking opportunities to collaborate on projects related to:
-- **Data Analysis**
-- **Python Development**
-- **Web Scraping**
+🌟 **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
+🔍 **Focused on Machine Learning, Generative AI & Predictive Analytics**  
+💻 **Python | SQL | Data Visualization | Open to Collaborative Projects & Internships**
 
-If you have projects in these areas, or if you're looking to work together, please reach out.<br><br>
-
-## 🤝 Research Interests
-I am interested in exploring **Machine Learning** research papers and white papers. I am looking for guidance in understanding complex research topics and methodologies.<br>
-
-## 💭 Additional Interests
-Feel free to discuss with me topics related to:
-- **Career Development**
-- **Volunteering**
-- **Community Building**
-- **Dance** (I am a trained dancer and passionate about the arts)<br><br>
-
-## ⚡ Fun Fact
-I am a trained dancer, which keeps me motivated and disciplined in both my personal and professional life. <br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-sravani-k) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kjayasravani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kjayasravani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjayasravani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> _“𝗗𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝗶𝘀𝗻’𝘁 𝗷𝘂𝘀𝘁 𝗮𝗯𝗼𝘂𝘁 𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀—𝗶𝘁’𝘀 𝗮𝗯𝗼𝘂𝘁 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗿𝗲𝗮𝗹 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗮𝗻𝗱 𝘁𝗲𝗹𝗹𝗶𝗻𝗴 𝘀𝘁𝗼𝗿𝗶𝗲𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮.”_ – DJ Patil
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kjayasravani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👩‍💻 About Me:
+Hi, I’m a 3rd-year B.Tech student diving into the world of **Data Science**, **Machine Learning**, and most recently, **Generative AI (GenAI)**.  
+
+🔹 Over the last few years, I’ve been building my skills in **Python**, **SQL**, and **Java**, while getting hands-on with:  
+• Data Analysis & Visualization  
+• Problem-solving through DSA  
+• Core Computer Science fundamentals (OOP, DBMS, etc.)  
+
+🔹 **Why Data Science?**  
+I love turning chaos into clarity. Data is like a mystery that needs decoding—whether it's predicting trends, building smarter systems, or exploring the creative side of AI.  
+
+🔹 Lately, I’ve been exploring **Generative AI**—how machines don’t just learn from data but **create** from it. It's a fascinating blend of tech and creativity.  
+
+🎵 When I’m not coding, you’ll find me dancing—my creative outlet that balances out my logical side with some rhythm and flow.
+
+---
+
+### 🚀 I’m Open To:
+- **Collaborative projects** in ML/AI/GenAI
+- **Data-driven solutions**
+- **Internship opportunities**
+- Networking with tech enthusiasts
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python`, `Java`
+
+**Frameworks / Libraries:**  
+`NumPy`, `Pandas`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `OpenCV`, `NLTK`, `Hugging Face Transformers`
+
+**Tools / Platforms:**  
+`DSA`, `OOPs`, `Git/GitHub`, `Docker`, `MySQL`, `Tableau`
+
+**Databases:**  
+`MySQL`
+
+**Version Control:**  
+`Git`, `GitHub`
+
+**IDEs:**  
+`VSCode`, `Jupyter Notebook`, `PyCharm`
+
+---
+
+### 📫 Let’s Connect
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your email address] (optional)
+- Portfolio: [Your portfolio link] (optional)
+
+---
+
+Thanks for visiting my profile! Let’s build something impactful. 🌟
