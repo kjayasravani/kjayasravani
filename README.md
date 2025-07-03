@@ -56,9 +56,8 @@ I love turning chaos into clarity. Data is like a mystery that needs decoding—
 ---
 
 ### 📫 Let’s Connect
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your email address] (optional)
-- Portfolio: [Your portfolio link] (optional)
+- LinkedIn: https://www.linkedin.com/in/jaya-sravani-k/
+- Email: sravanikondeti1416@gmail.com 
 
 ---
 
