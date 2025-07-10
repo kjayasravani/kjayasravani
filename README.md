@@ -6,6 +6,7 @@
 - [Swiggy Delivery Time Prediction](https://github.com/kjayasravani/Swiggy-Delivery-Time-Prediction): ML model predicting delivery times using traffic, weather, and rider data.
 - [Impact of Social Media on Mental Health Analysis](https://github.com/kjayasravani/Social-Media-and-Mental-Health-Analysis):Analyzed social media usage and its impact on mental health using exploratory data analysis and sentiment analysis on real-world data.
 
+---
 
 🌟 **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
 🔍 **Focused on Machine Learning, Generative AI & Predictive Analytics**  
