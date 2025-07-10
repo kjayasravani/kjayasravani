@@ -1,4 +1,10 @@
-# Hi there, I’m K Jaya Sravani 👋  
+# Hi there, I’m K Jaya Sravani 
+
+## Projects
+- [Scheme Research App](https://github.com/kjayasravani/scheme-research-app): AI-powered semantic search tool for government scheme PDFs.
+- [Hand Gesture Recognition](https://github.com/kjayasravani/Hand-Gesture-Recognition): Real-time gesture recognition using OpenCV & TensorFlow.
+- [Swiggy Delivery Time Prediction](https://github.com/kjayasravani/Swiggy-Delivery-Time-Prediction): ML model predicting delivery times using traffic, weather, and rider data.
+
 
 🌟 **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
 🔍 **Focused on Machine Learning, Generative AI & Predictive Analytics**  
