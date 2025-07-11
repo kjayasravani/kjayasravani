@@ -4,13 +4,13 @@
 - [Scheme Research App](https://github.com/kjayasravani/scheme-research-app): AI-powered semantic search tool for government scheme PDFs.
 - [Hand Gesture Recognition](https://github.com/kjayasravani/Hand-Gesture-Recognition): Real-time gesture recognition using OpenCV & TensorFlow.
 - [Swiggy Delivery Time Prediction](https://github.com/kjayasravani/Swiggy-Delivery-Time-Prediction): ML model predicting delivery times using traffic, weather, and rider data.
-- [Impact of Social Media on Mental Health Analysis](https://github.com/kjayasravani/Social-Media-and-Mental-Health-Analysis):Modeled user friendships and interactions using graph data structures in Java.
-- [Social Networking using Graphs](https://github.com/kjayasravani/Social-Networking-using-graphs):Java-based social networking application leveraging graph data structures to model user connections and friendship management.
+- [Impact of Social Media on Mental Health Analysis](https://github.com/kjayasravani/Social-Media-and-Mental-Health-Analysis): Modeled user friendships and interactions using graph data structures in Java.
+- [Social Networking using Graphs](https://github.com/kjayasravani/Social-Networking-using-graphs): Java-based social networking application leveraging graph data structures to model user connections and friendship management.
 ---
 
-🌟 **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
-🔍 **Focused on Machine Learning, Generative AI & Predictive Analytics**  
-💻 **Python | SQL | Data Visualization | Open to Collaborative Projects & Internships**
+- **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
+- **Focused on Machine Learning, Generative AI & Predictive Analytics**  
+- **Python | SQL | Data Visualization | Open to Collaborative Projects & Internships**
 
 > _“𝗗𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝗶𝘀𝗻’𝘁 𝗷𝘂𝘀𝘁 𝗮𝗯𝗼𝘂𝘁 𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀—𝗶𝘁’𝘀 𝗮𝗯𝗼𝘂𝘁 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗿𝗲𝗮𝗹 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗮𝗻𝗱 𝘁𝗲𝗹𝗹𝗶𝗻𝗴 𝘀𝘁𝗼𝗿𝗶𝗲𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮.”_ – DJ Patil
 
@@ -33,7 +33,7 @@ I love turning chaos into clarity. Data is like a mystery that needs decoding—
 
 ---
 
-### 🚀 I’m Open To:
+### I’m Open To:
 - **Collaborative projects** in ML/AI/GenAI
 - **Data-driven solutions**
 - **Internship opportunities**
@@ -41,32 +41,32 @@ I love turning chaos into clarity. Data is like a mystery that needs decoding—
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
-`Python`, `Java`
+`Python`, `SQL`, `Java`
 
-**Frameworks / Libraries:**  
-`NumPy`, `Pandas`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `OpenCV`, `NLTK`, `Hugging Face Transformers`
+**ML / AI Frameworks:**  
+`Scikit-learn`, `TensorFlow`, `OpenCV`, `cvzone`, `NLTK`, `Hugging Face Transformers`
 
-**Tools / Platforms:**  
-`DSA`, `OOPs`, `Git/GitHub`, `Docker`, `MySQL`, `Tableau`
+**GenAI & ML Ops:**  
+`LangChain`, `FAISS`, `Groq API`, `Streamlit`, `Teachable Machine`, `Flan-T5`, `LLaMA3`
 
-**Databases:**  
-`MySQL`
+**Data Analysis & Visualization:**  
+`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`
 
-**Version Control:**  
-`Git`, `GitHub`
+**Tools & Platforms:**  
+`Git`, `GitHub`, `Docker (Beginner)`, `MySQL`, `Tableau`, `Jupyter Notebook`, `VSCode`
 
-**IDEs:**  
-`VSCode`, `Jupyter Notebook`, `PyCharm`
+**Core Concepts:**  
+`DSA`, `OOP`, `DBMS`, `REST APIs`, `Version Control`
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/jaya-sravani-k/
 - Email: sravanikondeti1416@gmail.com 
 
 ---
 
-Thanks for visiting my profile! Let’s build something impactful. 🌟
+Thanks for visiting my profile! Let’s build something impactful.
