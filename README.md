@@ -5,7 +5,7 @@
 - [Hand Gesture Recognition](https://github.com/kjayasravani/Hand-Gesture-Recognition): Real-time gesture recognition using OpenCV & TensorFlow.
 - [Swiggy Delivery Time Prediction](https://github.com/kjayasravani/Swiggy-Delivery-Time-Prediction): ML model predicting delivery times using traffic, weather, and rider data.
 - [Impact of Social Media on Mental Health Analysis](https://github.com/kjayasravani/Social-Media-and-Mental-Health-Analysis):Analyzed social media usage and its impact on mental health using exploratory data analysis and sentiment analysis on real-world data.
-
+- [Social Networking using Graphs](https://github.com/kjayasravani/Social-Networking-using-graphs):Java-based social networking application leveraging graph data structures to model user connections and friendship management.
 ---
 
 🌟 **Aspiring Data Scientist | B.Tech CSE (Data Science)**  
